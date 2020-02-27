@@ -4,15 +4,15 @@
   "description": "这是粟慧军的Gitbook练习",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 0"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/suhuijun/ibook-shj.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "粟慧军",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/suhuijun/ibook-shj/issues"
   },
