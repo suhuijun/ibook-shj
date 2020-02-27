@@ -1,0 +1,23 @@
+{
+  "name": "ibook-shj",
+  "version": "1.0.0",
+  "description": "这是粟慧军的Gitbook练习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suhuijun/ibook-shj.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suhuijun/ibook-shj/issues"
+  },
+  "homepage": "https://github.com/suhuijun/ibook-shj#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
